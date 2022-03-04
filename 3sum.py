@@ -1,6 +1,6 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        # https://www.youtube.com/watch?v=jzZsG8n2R9A&ab_channel=NeetCode
+        # https://www.youtube.com/watch?v=jzZsG8n2R9A&ab_channel=NeetCodee
         # Time complexity => O(n*n) => O(n)2
         # Space complexity => O(1) or O(n) because sorting does take extra memory based on lib you use
         #first we will sort it to prevent duplicates and adjust left, right pointers
